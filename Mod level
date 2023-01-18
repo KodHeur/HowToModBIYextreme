@@ -1,0 +1,58 @@
+To mod BIYextrem you need :
+-a texte editor (like Visual Studio Code or Notepad)
+- BITextreme -> https://hempuli.itch.io/baba-is-you-xtreme
+
+-----------------------------------------------------------------------------------
+
+The things to mod :
+To mod BIYxtreme you need to know i just learn how to made custom levels
+
+first go in the file who contain BIYxtreme and go in the folder Data and open one of this file :
+- 0level <- first level of the game
+and so on.
+
+-----------------------------------------------------------------------------------
+
+you can modify level object position, this is the item list :
+
+commands texture :
+- &0 <- Arrow input texture
+- &1 <- [R] input texture
+- &2 <- [ESC] input texture
+
+Object :
+- -- <- Nothing
+- ow <- Wall
+- or <- Rock
+- ot <- Path
+- ob <- Baba
+- os <- Skull
+- of <- Flag
+- ov <- Water
+- od <- Door
+- ok <- key
+
+Text block :
+- tb <- BABA block
+- wi <- IS block
+- wy <- YOU block
+- tw <- WALL block
+- ws <- STOP block
+- tf <- FLAG block
+- ww <- WIN block
+- tr <- ROCK block
+- wp <- PUSH block
+- ts <- SKULL block
+- wd <- DEFEAT block
+- tv <- WATER block
+- si <- SINK block
+- tx <- TEXT block
+- tk <- KEY block
+- td <- DOOR block
+- wm <- WARM block
+- wh <- HOT block
+- wf <- FALL block
+- wb <- BOOM block
+- wl <- LINK block
+- tk <- KEKE block
+- tg <- GAME block
