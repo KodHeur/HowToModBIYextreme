@@ -31,7 +31,7 @@ Object :
 - ov <- Water
 - od <- Door
 - ok <- key
-- ok <- KeKe
+- oK<- KeKe
 
 Text block :
 - tb <- BABA block
@@ -55,5 +55,5 @@ Text block :
 - wf <- FALL block
 - wb <- BOOM block
 - wl <- LINK block
-- tk <- KEKE block
+- tK <- KEKE block
 - tg <- GAME block
