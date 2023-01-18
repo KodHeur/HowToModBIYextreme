@@ -32,6 +32,7 @@ Object :
 - od <- Door
 - ok <- key
 - oK<- KeKe
+- oh <- Grass
 
 Text block :
 - tb <- BABA block
@@ -56,4 +57,5 @@ Text block :
 - wb <- BOOM block
 - wl <- LINK block
 - tK <- KEKE block
-- tg <- GAME block
+- tG <- GAME block
+- tg <- GRASS block
